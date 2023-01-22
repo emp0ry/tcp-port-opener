@@ -2,6 +2,8 @@
 
 First, register on the [ngrok](https://dashboard.ngrok.com/get-started/your-authtoken) website and copy your token
 
+The latest version can be downloaded from the [ngrok](https://ngrok.com/download) website (download for windows and put with main.py in one folder)
+
 **• Configuration •**
 ```python=
 TOKEN = "Your Token" # https://dashboard.ngrok.com/get-started/your-authtoken
