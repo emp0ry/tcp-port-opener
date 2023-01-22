@@ -3,7 +3,7 @@
 **• Configuration •**
 ```python
 TOKEN = "Your Token" # https://dashboard.ngrok.com/get-started/your-authtoken
-PORT = Your Port
+PORT = "Your Port"
 REGION = "Your Region" # United States, Europe, Asia Pacific, Australia, South America, Japan, India
 ```
 
