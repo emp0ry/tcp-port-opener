@@ -1,9 +1,9 @@
 # TCP port opener with python
 
-First, register on the site [ngrok](https://dashboard.ngrok.com/get-started/your-authtoken) and copy your token
+First, register on the [ngrok](https://dashboard.ngrok.com/get-started/your-authtoken) website and copy your token
 
 **• Configuration •**
-```python
+```python=
 TOKEN = "Your Token" # https://dashboard.ngrok.com/get-started/your-authtoken
 PORT = "Your Port"
 REGION = "Your Region" # United States, Europe, Asia Pacific, Australia, South America, Japan, India
