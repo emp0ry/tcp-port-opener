@@ -1,5 +1,7 @@
 # TCP port opener with python
 
+First, register on the site [ngrok](https://dashboard.ngrok.com/get-started/your-authtoken) and copy your token
+
 **• Configuration •**
 ```python
 TOKEN = "Your Token" # https://dashboard.ngrok.com/get-started/your-authtoken
