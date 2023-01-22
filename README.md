@@ -15,7 +15,7 @@ TOKEN = "2casAfAdgfgAsdgdgE0AGDu_UDGDSzf7eDFGSDF" # https://dashboard.ngrok.com/
 PORT = 25565
 REGION = "Europe" # United States, Europe, Asia Pacific, Australia, South America, Japan, India
 
-
+# output #
 ---------------------------------------------------------------
 # Region          Europe (eu)
 # Web Interface   http://127.0.0.1:4040
