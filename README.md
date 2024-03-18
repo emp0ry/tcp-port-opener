@@ -16,7 +16,6 @@ REGION = "Your Region" # United States, Europe, Asia Pacific, Australia, South A
 TOKEN = "2casAfAdgfgAsdgdgE0AGDu_UDGDSzf7eDFGSDF" # https://dashboard.ngrok.com/get-started/your-authtoken
 PORT = 25565
 REGION = "Europe" # United States, Europe, Asia Pacific, Australia, South America, Japan, India
-```
 
 # output #
 ---------------------------------------------------------------
@@ -25,3 +24,4 @@ REGION = "Europe" # United States, Europe, Asia Pacific, Australia, South Americ
 # Local           192.168.1.17:25565
 # Public          3.68.156.221:10135 or 7.tcp.eu.ngrok.io:10135
 ---------------------------------------------------------------
+```
