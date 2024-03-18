@@ -5,7 +5,7 @@ First, register on the [ngrok](https://dashboard.ngrok.com/get-started/your-auth
 The latest version can be downloaded from the [ngrok](https://ngrok.com/download) website (download for windows and put with main.py in one folder)
 
 **• Configuration •**
-```python=
+```python
 TOKEN = "Your Token" # https://dashboard.ngrok.com/get-started/your-authtoken
 PORT = "Your Port"
 REGION = "Your Region" # United States, Europe, Asia Pacific, Australia, South America, Japan, India
@@ -16,6 +16,7 @@ REGION = "Your Region" # United States, Europe, Asia Pacific, Australia, South A
 TOKEN = "2casAfAdgfgAsdgdgE0AGDu_UDGDSzf7eDFGSDF" # https://dashboard.ngrok.com/get-started/your-authtoken
 PORT = 25565
 REGION = "Europe" # United States, Europe, Asia Pacific, Australia, South America, Japan, India
+```
 
 # output #
 ---------------------------------------------------------------
